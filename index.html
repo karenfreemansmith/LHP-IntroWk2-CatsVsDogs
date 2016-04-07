@@ -11,23 +11,38 @@
   </head>
   <body>
     <div class="container">
-      <div class="jumbotron">
-        <h1>Cats vs. Dogs!</h1>
+
+      <div class="jumbotron row">
+        <div class="col-xs-12">
+          <h1>Cats vs. Dogs!</h1>
           <p>Click the button for the team you are rooting for:</p>
+        </div>
+        <div class="row">
+          <div class="col-xs-6">
+            <button class="btn btn-default btn-block" id="gocats">Go CATS!</button>
+            <img class="img-responsive cats" src="img/cat1.png">
+            </ul>
+          </div>
+          <div class="col-xs-6">
+            <button class="btn btn-inverse btn-block" id="godogs">Go DOGS!</button>
+            <img class="img-responsive dogs" src="img/dog1.png">
+            </ul>
+          </div>
+        </div>
       </div>
+
+
       <div class="row">
         <div class="col-xs-6">
-          <img class="img-responsive" src="img/cat1.png">
-          <button class="btn btn-default btn-block" id="gocats">Go CATS!</button>
           <ul id="cats" class="unstyled">
           </ul>
         </div>
         <div class="col-xs-6">
-          <img class="img-responsive" src="img/dog1.png">
-          <button class="btn btn-inverse btn-block" id="godogs">Go DOGS!</button>
-          <ul id="dogs" class="unstyles">
+          <ul id="dogs" class="unstyled">
           </ul>
+        </div>
       </div>
+
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>

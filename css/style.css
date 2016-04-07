@@ -1,0 +1,16 @@
+ul {
+  margin-top: 20px;
+}
+
+li {
+  list-style: none;
+  font-size: 2em;
+}
+
+body {
+  text-align: center;
+}
+
+.btn {
+  font-size: 2em;
+}
