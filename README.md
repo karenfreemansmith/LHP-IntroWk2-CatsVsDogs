@@ -1,20 +1,18 @@
-# :cat::cat: [Cats -vs- Dogs](http://karenfreemansmith.github.io/catsvsdogs) :dog::dog:
-![project screenshot](/img/screenshot.jpg)
+# Cats Vs. Dogs
+by [Karen Freeman-Smith](https://karenfreemansmith.github.io)
 
-__Version 1: March 29, 2016__
+### Technologies Used
+HTML, CSS, Bootstrap, JavaScript, jQuery
 
-## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
+![screenshot of project running](screenshot.png)
 
-### Description
-__*Almost like a game... pitting cats against dogs to see who can 'bark' the loudest.*__
-
-## Technologies Used
-HTML, CSS
+## Description
+*[Learn How To Program](http://learnhowtoprogram.com) Intro to Programming Week 2 Individual Project: A webpage that pits cats against dogs to practice using jQuery and CSS classes for formatting.*
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* [View on Github Pages](https://karenfreemansmith.github.io/LHP-IntroWk2-CatsVsDogs)
 * _OR_
-* Clone diectory 
+* Clone directory
 * Open index.html in your favorite browser
 
 ## Support & Contact
